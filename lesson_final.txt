@@ -1,0 +1,2 @@
+Adición directa en el repositorio de GitHub para comprender qué pasa en nuestro repositorio
+local cuando no está sincronizado con el de GitHub
